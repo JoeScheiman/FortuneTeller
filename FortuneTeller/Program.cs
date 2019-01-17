@@ -18,7 +18,7 @@ namespace FortuneTeller
             //Console.ReadKey();
 
 
-
+            //Console.BackgroundColor = ConsoleColor.Blue;
 
             Console.WriteLine("Hello, get ready to read your fortune!\n");
 
